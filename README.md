@@ -1,6 +1,8 @@
 # Uber-Analysis-Using Python
 
-Analysis on uber dataset using python
+The objective of this project is to understand the traffic in different boroughs of New York City and to try and categorise the various zones within various boroughs as being: office destinations, residential destination, popular brunch destination or party destination according to it's popularity given the time-range and the day of the week.
+
+
 
 It covers the following insights:
 
